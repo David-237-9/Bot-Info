@@ -29,6 +29,6 @@ Você tem o direito de solicitar a exclusão dos seus dados ou acessar as inform
 Podemos atualizar esta Política de Privacidade periodicamente. A versão mais recente estará sempre disponível aqui.
 
 ## 8. Contacto
-Se tiver dúvidas sobre esta política, entre em contacto conosco:
+Se tiver dúvidas sobre esta política, entre em contacto connosco:
 
 Servidor de Suporte no Discord: https://discord.gg/FKQ6Xn3P5w
