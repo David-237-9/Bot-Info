@@ -29,7 +29,7 @@ Remover o bot de servidores que infrinjam as regras do Discord ou abusam das fun
 ## 6. Alterações nos Termos
 Podemos modificar estes Termos de Serviço a qualquer momento. As alterações serão postadas aqui, e é sua responsabilidade revisar este documento periodicamente para se manter atualizado.
 
-## 7. Contato
-Se tiver dúvidas ou preocupações sobre estes Termos de Serviço, você pode entrar em contato conosco:
+## 7. Contacto
+Se tiver dúvidas ou preocupações sobre estes Termos de Serviço, você pode entrar em contacto connosco:
 
 Servidor de Suporte no Discord: https://discord.gg/FKQ6Xn3P5w
