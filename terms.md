@@ -1,5 +1,5 @@
 # Termos de Serviço
-Última atualização: 06/03/2026
+Última atualização: 23/07/2026
 
 Ao utilizar este bot no Discord, você concorda com os seguintes termos e condições. Caso não concorde com algum destes termos, você não deverá usar o bot.
 
@@ -27,7 +27,7 @@ Reservamos o direito de:
 - Remover o bot de servidores que infrinjam as regras do Discord ou abusam das funcionalidades do bot.
 
 ## 6. Alterações nos Termos
-Podemos modificar estes Termos de Serviço a qualquer momento. As alterações serão postadas aqui, e é sua responsabilidade revisar este documento periodicamente para se manter atualizado.
+Podemos modificar estes Termos de Serviço a qualquer momento. As alterações serão postadas aqui, e é sua responsabilidade rever este documento periodicamente para se manter atualizado.
 
 ## 7. Contacto
 Se tiver dúvidas ou preocupações sobre estes Termos de Serviço, você pode entrar em contacto connosco:
