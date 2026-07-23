@@ -1,12 +1,14 @@
 # Política de Privacidade
-Última atualização: 06/03/2026
+Última atualização: 23/07/2026
 
 ## 1. Informações que Coletamos
-IDs de Utilizador e Servidor: Colectamos o seu ID de utilizador e o ID do servidor para processar comandos e fornecer serviços personalizados.
-Conteúdo das Mensagens: Se o bot interage com mensagens (por exemplo, para moderação), podemos armazenar temporariamente o conteúdo para realizar as funções solicitadas.
-Metadados: Outras informações como permissões e funções podem ser coletadas para que o bot funcione corretamente.
+IDs de Utilizador e Servidor:
+- Coletamos IDs de utilizador e IDs de servidor para processar comandos e fornecer serviços personalizados.
+- Conteúdo das Mensagens: Se o bot interage com mensagens (por exemplo, para moderação), podemos armazenar temporariamente o conteúdo para realizar as funções solicitadas.
+- Metadados: Outras informações como permissões e funções podem ser coletadas para que o bot funcione corretamente.
+
 ## 2. Uso das Informações
-Usamos suas informações para:
+Usamos as suas informações para:
 - Processar comandos e fornecer os serviços do bot;
 - Gerir configurações específicas do servidor.
 
