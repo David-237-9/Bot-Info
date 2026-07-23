@@ -2,7 +2,6 @@
 Última atualização: 23/07/2026
 
 ## 1. Informações que Coletamos
-IDs de Utilizador e Servidor:
 - Coletamos IDs de utilizador e IDs de servidor para processar comandos e fornecer serviços personalizados.
 - Conteúdo das Mensagens: Se o bot interage com mensagens (por exemplo, para moderação), podemos armazenar temporariamente o conteúdo para realizar as funções solicitadas.
 - Metadados: Outras informações como permissões e funções podem ser coletadas para que o bot funcione corretamente.
